@@ -8,7 +8,7 @@
 
 📫 learn more about me at https://www.fiverr.com/nabeelahmed392
 
-I'm currently working at Iplex as a MERN full-stack developer
+I'm currently working at iClosed as a MERN full-stack developer
 
 Add me on Linkedin https://www.linkedin.com/in/nabeel-ahmed-9622991ba/
 
