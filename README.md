@@ -13,7 +13,9 @@ I'm currently working at iClosed as a MERN full-stack developer
 Add me on Linkedin https://www.linkedin.com/in/nabeel-ahmed-9622991ba/
 
 📈 **My Leetcode Stats**
+<p>
   <img height="240em" src="https://leetcard.jacoblin.cool/Nabeel7801?theme=dark&font=Iceland%20Web&ext=heatmap" />
+</p>
 
 📈 **My GitHub Stats**
 
