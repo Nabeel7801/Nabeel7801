@@ -2,7 +2,7 @@
 
 I’m mostly interested in MERN Stack Development. I’m currently working on modern technologies i.e. Next JS, Nest JS, and Prisma ORM
 
-✅ Currently working at iClosed as a MERN full-stack developer
+✅ Currently working at iClosed as a Software Engineer
 
 Add me on Linkedin https://www.linkedin.com/in/nabeel-ahmed-9622991ba/
 
