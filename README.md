@@ -14,6 +14,6 @@ Add me on Linkedin https://www.linkedin.com/in/nabeel-ahmed-9622991ba/
 📈 **My GitHub Stats**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nabeel7801&show_icons=true&hide_border=true&theme=cobalt&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nabeel7801&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabeel7801&show_icons=true&hide_border=true&theme=cobalt&hide=hlsl,shaderlab&exclude_repo=OCRAIProject&layout=compact&langs_count=8"/>
 </p>
