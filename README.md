@@ -11,7 +11,9 @@
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [Nabeel Ahmed](https://www.linkedin.com/in/nabeel-ahmed-9622991ba/)
+- 🚀 Nabeel workspace: [Nabeel Workspace](https://nabeelworkspace.com/)
 
+<!--
 ---
 
 ## 📈 LeetCode Stats
@@ -24,23 +26,23 @@
   />
 </p>
 
+-->
+
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-omega-mocha.vercel.app/api?username=Nabeel7801&show_icons=true&theme=radical" 
-    alt="GitHub Stats"
-  />
+<img 
+  height="180em" 
+  src="https://github-readme-stats-omega-mocha.vercel.app/api?username=Nabeel7801&show_icons=true&theme=radical" 
+  alt="GitHub Stats"
+/>
 
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-omega-mocha.vercel.app/api/top-langs/?username=Nabeel7801&show_icons=true&theme=radical&hide=hlsl,shaderlab&exclude_repo=OCRAIProject&layout=compact&langs_count=8" 
-    alt="Top Languages"
-  />
-</p>
+<img 
+  height="180em" 
+  src="https://github-readme-stats-omega-mocha.vercel.app/api/top-langs/?username=Nabeel7801&show_icons=true&theme=radical&hide=hlsl,shaderlab&exclude_repo=OCRAIProject&layout=compact&langs_count=8" 
+  alt="Top Languages"
+/>
 
 ---
 
